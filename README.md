@@ -11,7 +11,7 @@
     > 1596870180 192.168.0.2 0 71
 
 ---
-## Log Parsing, using trie, to query logs
+## Log Parsing, using trie, to query logs (WIP)
 Parses the logs and creates a trie to query within a second
 
 ---
